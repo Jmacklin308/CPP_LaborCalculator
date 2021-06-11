@@ -1,0 +1,3 @@
+C:/Dev/C++/Udemy C++/Constants/cmake-build-debug/CMakeFiles/Constants.dir
+C:/Dev/C++/Udemy C++/Constants/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Dev/C++/Udemy C++/Constants/cmake-build-debug/CMakeFiles/rebuild_cache.dir
